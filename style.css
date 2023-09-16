@@ -1,0 +1,78 @@
+body{ 
+    background: url(aa.avif); 
+    background-repeat: no-repeat;
+} 
+h2{ 
+    display: inline-block;
+     margin-right: 50%; 
+     border: 3px solid  blue;
+     font-size: larger;
+     padding: 15px;
+     padding-left:30px  ;
+     padding-right:30px  ;
+     color: aqua;
+     border-radius: 10px; 
+     margin-left: 10%;
+}
+.home , .service{ 
+    display: inline-block; 
+    margin: 10px; 
+    border: 3px solid blue;
+    border-radius: 10px; 
+    padding: 10px;
+    color: aqua;
+    font-size: larger;
+    cursor: pointer;
+}
+.logggin{ 
+    display: inline-block; 
+    margin: 10px; 
+    border: 3px solid blue;
+    border-radius: 10px; 
+    padding: 10px;
+    color: aqua;
+    font-size: larger;
+    text-decoration: none;
+}
+div{ 
+    border: 3px solid  aqua; 
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 150px;
+    width: fit-content;
+    width: 200px; 
+    height: 250px; 
+}
+audio{ 
+    display: none;
+}
+.forget{   
+  padding-left: 20px; 
+  font-size: larger; 
+  text-decoration: none; 
+  
+}
+h3{ 
+    text-align: center; 
+    margin-top: 30px;
+}  
+.m3{ 
+   margin-top: 400px; 
+   font-size: 30px;
+
+} 
+.User ,.pass { 
+    margin:5px;
+    border: solid;
+    border-color:  white;
+    border-radius: 5px; 
+         
+    
+}
+.save{ 
+    margin-left: 70px; 
+    border: solid;
+    margin-bottom: 5px; 
+    border-radius: 5px;
+    border-color: #eee;
+} 
